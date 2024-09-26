@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-   <a href="https://portfolio-2-getarpit.netlify.app/" target="_blank"><img src="https://i.ibb.co/CV4NHyH/brave-Ny-Kx9qo-Qwn.png" alt="Main-Cover" border="0"></a>
+   <a href="https://portfolio-2-getarpit.netlify.app/" target="_blank"><img src="https://github.com/user-attachments/assets/e90507d3-090c-473f-9dc5-6c6e5b551fe8" alt="Main-Cover" border="0"></a>
   <br />
 
 # [Sample Portfolio 2](https://portfolio-2-getarpit.netlify.app/)
