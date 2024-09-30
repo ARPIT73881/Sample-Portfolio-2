@@ -596,12 +596,13 @@
             <!-- Contact Form -->
 
             <div class="row">
-              <div class="contact-form padd-15">
+              <form class="contact-form padd-15" name="contact" netlify>
                 <div class="row">
                   <div class="form-item col-6 padd-15">
                     <div class="form-group">
                       <input
                         type="text"
+                        name="name"
                         class="form-control"
                         placeholder="Name"
                       />
@@ -611,6 +612,7 @@
                     <div class="form-group">
                       <input
                         type="email"
+                        name="email"
                         class="form-control"
                         placeholder="Email"
                       />
@@ -622,6 +624,7 @@
                     <div class="form-group">
                       <input
                         type="text"
+                        name="subject"
                         class="form-control"
                         placeholder="Subject"
                       />
@@ -632,7 +635,7 @@
                   <div class="form-item col-12 padd-15">
                     <div class="form-group">
                       <textarea
-                        name=""
+                        name="message"
                         class="form-control"
                         id=""
                         placeholder="Message"
@@ -645,7 +648,7 @@
                     <button type="submit" class="btn">Send Message</button>
                   </div>
                 </div>
-              </div>
+              </form>
             </div>
           </div>
         </section>
